@@ -1,0 +1,5 @@
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.3
+matplotlib>=3.7
+rasterio>=1.3      # GeoTIFF/ENVI crater rasters (the "any crater" path). Omit only if using .npy/.npz inputs.
